@@ -44,9 +44,9 @@ button {
 
 
 
-.hide {
-    display: none;
-  }
+//.hide {
+    //display: none;
+ // }
 main {
   background: #ffffff;
   box-shadow: 0px 0.2rem 0.4rem rgba(0, 0, 0, 0.1);
